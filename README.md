@@ -13,6 +13,6 @@ Este projeto simula o site de uma barbearia fictícia, criado com o objetivo de 
 
 ##  Como abrir o projeto		
 1. Baixe os arquivos ou clone o repositório:
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/kaiqueroga-ui/projeto-equipe-barbearia.git
 
-2. Abra o arquivo principal (ex: index.html)
+2. Abra o arquivo principal 
